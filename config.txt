@@ -1,23 +1,10 @@
-# 公众号配置
-# 公众号appId
 "app_id": "wx142d5489c028e73d",
-# 公众号appSecret
 "app_secret": "7783d6618fb8e15abfdcee8ece581cba",
-# 模板消息id
 "template_id": "bh8CEZ2XVNove65U4WCGdmSEsG-sGJ2pAxwFdfKRCQI",
-# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["o_39U6lE57r5VPBm4FpAL_joOX1Y"],
-
-# 信息配置
-# 和风天气apikey
 "weather_key": "ab3e052104264e58a51bc95156138dec",
-# 天行数据apikey
 "tian_api": "b5976a42fb9a688495e7843e5a4a2b88",
-# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
 "region": "荥阳",
-# 生日
 "birthday1": {"name": "苗苗宝贝", "birthday": "2002-01-06"},
-# 在一起的日子，格式同上
 "love_date": "2021-03-01",
-# 金句中文，如果为空，默认会读取金山的每日金句
 "note_ch": "屎蛋儿每天都会用心爱着臭宝儿的喔！爱是朝朝与暮暮，爱是风吹雨打坎坷踏尽后，我依然坚定不移的爱着臭宝儿！"
